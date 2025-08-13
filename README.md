@@ -7,7 +7,7 @@ Discord上でテキストを読み上げる、簡易的なBotです
 APIには僕が提供している https://voicevox.moyashi.xyz を利用しています
 > [!CAUTION]
 > APIを悪用して負荷をかける行為や攻撃行為は禁止します
-
+>
 > そのような行為が確認された場合は永久的なIPBANを行います
 
 ---
