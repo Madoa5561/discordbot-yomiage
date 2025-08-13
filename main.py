@@ -3,7 +3,7 @@ from discord import app_commands
 from collections import defaultdict, deque
 
 TOKEN = "discordBotToken"
-VOICEVOX_URL, VOICE_ID, SPAM_INTERVAL = "https://voicevox.moyashi.xyz", 1, 30
+VOICEVOX_URL, VOICE_ID, SPAM_INTERVAL = "https://voicevox.moyashi.xyz", 1, 10
 MSG_HIST, MSG_TIME = defaultdict(lambda: deque(maxlen=3)), defaultdict(lambda: deque(maxlen=3))
 
 intents = discord.Intents.default()
