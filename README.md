@@ -1,0 +1,2 @@
+# discordbot-yomiage
+Discord上でテキスト読み上げをするとても簡易的なコードです
