@@ -5,10 +5,9 @@ Discord上でテキストを読み上げる、簡易的なBotです
 [VOICEVOX](https://voicevox.hiroshiba.jp/)のEngineを使用して、音声を生成・VCで再生します
 
 APIには僕が提供している https://voicevox.moyashi.xyz を利用しています
-
-:warning:APIを悪用して負荷をかける行為や攻撃行為は禁止します
-
-そのようなこ行為が確認された場合は永久的なIPBANを行います
+> [!CAUTION]
+> APIを悪用して負荷をかける行為や攻撃行為は禁止します
+> そのようなこ行為が確認された場合は永久的なIPBANを行います
 
 ---
 
