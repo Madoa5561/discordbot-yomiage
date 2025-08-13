@@ -32,6 +32,7 @@ python3 main.py
 VOICEVOX_URL, VOICE_ID, SPAM_INTERVAL = "https://voicevox.moyashi.xyz", 1, 10
 ```
 VOICEVOX_URLはVOICEVOX engineを動作させているURL
+
 VOICE_IDは話者IDです(この数値をいじることで話者を変更できます)
 
 SPAM_INTERVALは〇秒間で同じ内容3回までと設定するものです
