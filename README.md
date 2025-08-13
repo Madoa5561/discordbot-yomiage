@@ -3,7 +3,10 @@
 Discord上でテキストを読み上げる、簡易的なBotです。  
 [VOICEVOX](https://voicevox.hiroshiba.jp/)のAPIを使用して、音声を生成・VCで再生します。
 
-apiには僕が提供している https://voicevox.moyashi.xyz を利用しています
+APIには僕が提供している https://voicevox.moyashi.xyz を利用しています
+
+APIを悪用して負荷をかける行為や攻撃行為は禁止します
+確認した場合は永久的なIPBANを行います
 
 ---
 
@@ -18,8 +21,6 @@ pip install -U discord.py aiohttp
 ```python
 TOKEN = "DiscordBotToken"
 ```
-
-これで設定は完了です
 
 ### 実行
 ```bash
